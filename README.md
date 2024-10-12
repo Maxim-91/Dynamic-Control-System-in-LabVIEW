@@ -73,3 +73,7 @@ This LabVIEW project, **Dynamic VI Control System**, demonstrates how to handle 
 ![image](https://github.com/user-attachments/assets/b695370a-e701-498b-af15-7839a47a64d8)
 ![image](https://github.com/user-attachments/assets/9df2c229-f941-401e-ae66-45a833a34e01)
 
+## The appearance of the running program
+![image](https://github.com/user-attachments/assets/34c8d5cd-ca14-475d-9fbe-80e0ba5019eb)
+![image](https://github.com/user-attachments/assets/cfd7044e-ee56-4e80-a028-f8eee6a76e27)
+![image](https://github.com/user-attachments/assets/5109d788-f705-4e84-ac3b-2648f9521799)
