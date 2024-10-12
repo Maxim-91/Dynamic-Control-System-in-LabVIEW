@@ -65,7 +65,11 @@ This LabVIEW project, **Dynamic VI Control System**, demonstrates how to handle 
 - **LabVIEW** version XX.X or later.
 - Understanding of event-driven programming and state machines in LabVIEW.
 
-## Notes
+## Code
+![image](https://github.com/user-attachments/assets/66f35a66-49ed-4e99-8353-067a4eec59fe)
+![image](https://github.com/user-attachments/assets/40965e81-b7fc-4369-b346-e7c571c5b41b)
+![image](https://github.com/user-attachments/assets/a337293f-627f-444f-9979-fcde79f49c0e)
+![image](https://github.com/user-attachments/assets/6d98f4eb-56b9-4c31-ab2b-110731ef77df)
+![image](https://github.com/user-attachments/assets/b695370a-e701-498b-af15-7839a47a64d8)
+![image](https://github.com/user-attachments/assets/9df2c229-f941-401e-ae66-45a833a34e01)
 
-- The **Dynamic VI Control System** is designed to demonstrate efficient VI control and modularity, offering a flexible framework for managing multiple processes in LabVIEW.
-- This example can be expanded with additional states and functionalities, adapting to a wide range of VI management tasks.
